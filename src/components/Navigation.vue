@@ -55,7 +55,7 @@ div.button {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  padding: 1.1vh 2.1vw;
+  padding: 1.1vh 1.1vw;
   border-radius: 45px;
   font-weight: 600;
 

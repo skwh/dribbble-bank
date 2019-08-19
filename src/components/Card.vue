@@ -40,8 +40,8 @@ export default {
 div.card {
   border-radius: 25px;
   color: white;
-  padding: 1.85vh 2vw;
-  margin: 1.85vh 3.5vw;
+  padding: 1.85vh 1vw;
+  margin: 1.85vh 1.5vw;
   height: 150px;
   display: flex;
   flex-direction: column;
