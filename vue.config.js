@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: '/dribbble-endue'
+  baseUrl: '/dribbble-bank'
 }
